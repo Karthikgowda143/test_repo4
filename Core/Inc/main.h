@@ -26,6 +26,7 @@
 #ifdef __cplusplus
 extern "C" {
 #endif
+//123
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm32f1xx_hal.h"
